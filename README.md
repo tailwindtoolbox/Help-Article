@@ -1,4 +1,4 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Ghostwind](https://www.tailwindtoolbox.com/templates/help-article)
+# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Help-Article](https://www.tailwindtoolbox.com/templates/help-article)
 
 [Help Article](https://www.tailwindtoolbox.com/templates/help-article) is a clone of the [Weebly Support article](https://www.weebly.com/app/help/topics/first-steps) created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
